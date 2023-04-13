@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+    // tssadsajdiojasdoijsidaj
     int a[300005] ;
     int n , dem = 0 ;
     cin >> n ;
