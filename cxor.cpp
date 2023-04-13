@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    // tssadsajdiojasdoijsidaj
+    cout<<"Hello conflict";
     int a[300005] ;
     int n , dem = 0 ;
     cin >> n ;
