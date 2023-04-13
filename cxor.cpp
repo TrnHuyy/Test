@@ -4,7 +4,11 @@ using namespace std;
 
 int main()
 {
+<<<<<<< HEAD
     cout<<"Ko conflict thi sao";
+=======
+    cout<<"Hello conflict";
+>>>>>>> 5e2684bfc48c7b66268aebd40b3ecef3e78a4f67
     int a[300005] ;
     int n , dem = 0 ;
     cin >> n ;
